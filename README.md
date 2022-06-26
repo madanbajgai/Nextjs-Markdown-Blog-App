@@ -1,4 +1,4 @@
-Click [Here] to see the preview(https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Click [here!] to see the preview (https://blogx-sigma.vercel.app/)
 
 ## Getting Started
 
