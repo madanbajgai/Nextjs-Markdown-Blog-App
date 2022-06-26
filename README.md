@@ -1,4 +1,4 @@
-Click [here!] to see the preview (https://blogx-sigma.vercel.app/)
+Click [here!](https://blogx-sigma.vercel.app/) to see the preview
 
 ## Getting Started
 
@@ -9,4 +9,3 @@ npm run dev
 # or
 yarn dev
 ```
-
